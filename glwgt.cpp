@@ -106,7 +106,7 @@ void GLWidget::drawGrid(double step)
     {
         for(int j = 0; j < 8; j+=step)
         {
-            if ((i%2 == 0 && j%2 == 0) || (i%2 != 0 && j%2 != 0))
+            if (!(i%2 == 0 && j%2) || ((i%2) && (j%2)))
             {
                 glBegin(GL_QUADS);
                 glVertex2f(0 + i, 0 + j);
