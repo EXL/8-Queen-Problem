@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>queen.png</file>
+        <file>logo.png</file>
+        <file>quit.png</file>
+        <file>save.png</file>
+        <file>translations/qt_ru.qm</file>
+        <file>translations/queens_en.qm</file>
+        <file>translations/queens_ru.qm</file>
+    </qresource>
+</RCC>
