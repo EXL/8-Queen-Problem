@@ -132,7 +132,9 @@ void Widget::readSettings()
     qtTranslator.load("qt_" + locale, qmPath);
 
     if (locale == "ru")
+    {
         langAction->setChecked(true);
+    }
 }
 
 void Widget::createGLWidget()
@@ -226,14 +228,15 @@ void Widget::grabFrameBuffer()
     }
 }
 
-bool Widget::event(QEvent * e)
+/* This method added normal work QStatusBar to QWidget */
+bool Widget::event(QEvent *event)
 {
-    if (e->type() == QEvent::StatusTip)
+    if (event->type() == QEvent::StatusTip)
     {
-        statusBar->showMessage(static_cast<QStatusTipEvent*>(e)->tip());
+        statusBar->showMessage(static_cast<QStatusTipEvent*>(event)->tip());
         return true;
     }
-    return QWidget::event(e);
+    return QWidget::event(event);
 }
 
 void Widget::aboutDialog()

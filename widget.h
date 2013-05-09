@@ -19,8 +19,9 @@ class Widget : public QWidget
     Q_OBJECT
 public:
     Widget(QWidget *parent = 0);
-    bool event(QEvent * e);
     ~Widget();
+protected:
+    bool event(QEvent * event);
 private:
     QTranslator appTranslator;
     QTranslator qtTranslator;
