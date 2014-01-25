@@ -160,13 +160,13 @@ void Widget::settingsWidget()
 {
     setLayout(lay);
     setFixedSize(320, 360);
+    setWindowIcon(QIcon("://logo.png"));
 }
 
 void Widget::retranslateUi()
 {
-    aboutTitle = tr("8 Queens Problem");
-    aboutBody = tr("<table><tr><td align='center'><img src=':/logo.png'/></td>"
-                   "<td align='center'><br><h4>8 Queens Problem</td></h4></tr></table>"
+    aboutTitle = tr("8 Queens");
+    aboutBody = tr("<h4>8 Queens Problem</h4>"
                    "<center><h3>Version 0.1</h3></center>"
                    "<center><h3>(C) EXL, 2013</h3></center>");
 

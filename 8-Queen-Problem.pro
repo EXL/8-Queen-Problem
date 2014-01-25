@@ -8,7 +8,7 @@ QT       += core gui opengl
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
-TARGET = Lesson27-8QueensQtGL
+TARGET = 8-Queen-Problem
 TEMPLATE = app
 
 
@@ -24,7 +24,7 @@ HEADERS  += widget.h \
 RESOURCES += \
     qtgl.qrc
 
-RC_FILE += \
+win32-g++:RC_FILE += \
     res_win.rc
 
 TRANSLATIONS += \

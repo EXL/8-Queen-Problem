@@ -26,7 +26,7 @@
         <translation type="obsolete">&amp;%1 %2</translation>
     </message>
     <message>
-        <location filename="widget.cpp" line="171"/>
+        <location filename="widget.cpp" line="173"/>
         <source>&amp;Save as...</source>
         <oldsource>&amp;Save as..</oldsource>
         <translation>&amp;Сохранить как...</translation>
@@ -36,50 +36,49 @@
         <translation type="obsolete">Сохранить решение в популярные форматы изображений</translation>
     </message>
     <message>
-        <location filename="widget.cpp" line="174"/>
+        <location filename="widget.cpp" line="176"/>
         <source>&amp;Quit</source>
         <translation>&amp;Выход</translation>
     </message>
     <message>
-        <location filename="widget.cpp" line="175"/>
+        <location filename="widget.cpp" line="177"/>
         <source>Exit the application</source>
         <translation>Выход из приложения</translation>
     </message>
     <message>
-        <location filename="widget.cpp" line="177"/>
-        <location filename="widget.cpp" line="185"/>
+        <location filename="widget.cpp" line="179"/>
+        <location filename="widget.cpp" line="187"/>
         <source>&amp;About</source>
         <translation>&amp;О программе</translation>
     </message>
     <message>
-        <location filename="widget.cpp" line="178"/>
+        <location filename="widget.cpp" line="180"/>
         <source>About the application</source>
         <translation>Об этой программе</translation>
     </message>
     <message>
-        <location filename="widget.cpp" line="180"/>
+        <location filename="widget.cpp" line="182"/>
         <source>About &amp;Qt</source>
         <translation>О &amp;Qt библиотеке</translation>
     </message>
     <message>
-        <location filename="widget.cpp" line="181"/>
+        <location filename="widget.cpp" line="183"/>
         <source>About the Qt Library&apos;s</source>
         <translation>О бибилотеке Qt, лицензия</translation>
     </message>
     <message>
-        <location filename="widget.cpp" line="183"/>
+        <location filename="widget.cpp" line="185"/>
         <source>&amp;File</source>
         <translation>&amp;Файл</translation>
     </message>
     <message>
-        <location filename="widget.cpp" line="184"/>
+        <location filename="widget.cpp" line="186"/>
         <source>&amp;Language</source>
         <translation>&amp;Язык</translation>
     </message>
     <message>
-        <location filename="widget.cpp" line="165"/>
-        <location filename="widget.cpp" line="189"/>
-        <location filename="widget.cpp" line="192"/>
+        <location filename="widget.cpp" line="191"/>
+        <location filename="widget.cpp" line="194"/>
         <source>8 Queens Problem</source>
         <translation>Головоломка: 8 ферзей</translation>
     </message>
@@ -89,30 +88,39 @@
         <translation>&amp;%1</translation>
     </message>
     <message>
-        <location filename="widget.cpp" line="172"/>
+        <location filename="widget.cpp" line="168"/>
+        <source>8 Queens</source>
+        <translation>8 Ферзей</translation>
+    </message>
+    <message>
+        <location filename="widget.cpp" line="169"/>
+        <source>&lt;h4&gt;8 Queens Problem&lt;/h4&gt;&lt;center&gt;&lt;h3&gt;Version 0.1&lt;/h3&gt;&lt;/center&gt;&lt;center&gt;&lt;h3&gt;(C) EXL, 2013&lt;/h3&gt;&lt;/center&gt;</source>
+        <translation>&lt;h4&gt;Головоломка: 8 Ферзей, визуализация&lt;/h4&gt;&lt;center&gt;&lt;h3&gt;Версия 0.1&lt;/h3&gt;&lt;/center&gt;&lt;center&gt;&lt;h3&gt;(C) EXL, 2013&lt;/h3&gt;&lt;/center&gt;</translation>
+    </message>
+    <message>
+        <location filename="widget.cpp" line="174"/>
         <source>Save framebuffer as *.png</source>
         <translation>Сохранить решение в *.png</translation>
     </message>
     <message>
-        <location filename="widget.cpp" line="187"/>
+        <location filename="widget.cpp" line="189"/>
         <source>Ready</source>
         <translation>Готово</translation>
     </message>
     <message>
-        <location filename="widget.cpp" line="214"/>
+        <location filename="widget.cpp" line="216"/>
         <source>Save *.png file</source>
         <translation>Сохранить *png файл</translation>
     </message>
     <message>
-        <location filename="widget.cpp" line="215"/>
+        <location filename="widget.cpp" line="217"/>
         <source>Image File (*.png);;All Files (*)</source>
         <translation>Файл изображения (*.png);;Все файлы (*)</translation>
     </message>
     <message>
-        <location filename="widget.cpp" line="166"/>
         <source>&lt;table&gt;&lt;tr&gt;&lt;td align=&apos;center&apos;&gt;&lt;img src=&apos;:/logo.png&apos;/&gt;&lt;/td&gt;&lt;td align=&apos;center&apos;&gt;&lt;br&gt;&lt;h4&gt;8 Queens Problem&lt;/td&gt;&lt;/h4&gt;&lt;/tr&gt;&lt;/table&gt;&lt;center&gt;&lt;h3&gt;Version 0.1&lt;/h3&gt;&lt;/center&gt;&lt;center&gt;&lt;h3&gt;(C) EXL, 2013&lt;/h3&gt;&lt;/center&gt;</source>
         <oldsource>&lt;table&gt;&lt;tr&gt;&lt;td align=&apos;center&apos;&gt;&lt;img src=&apos;:/logo.png&apos;/&gt;&lt;/td&gt;&lt;td align=&apos;center&apos;&gt;&lt;br&gt;&lt;h4&gt;8 Queens Problem&lt;/td&gt;&lt;/h4&gt;&lt;/tr&gt;&lt;/table&gt;&lt;center&gt;&lt;h3&gt;Version 0.1&lt;/h3&gt;&lt;/center&gt;</oldsource>
-        <translation>&lt;table&gt;&lt;tr&gt;&lt;td align=&apos;center&apos;&gt;&lt;img src=&apos;:/logo.png&apos;/&gt;&lt;/td&gt;&lt;td align=&apos;center&apos;&gt;&lt;br&gt;&lt;h4&gt;Головоломка: &lt;br&gt; восемь ферзей&lt;/td&gt;&lt;/h4&gt;&lt;/tr&gt;&lt;/table&gt;&lt;center&gt;&lt;h3&gt;Версия 0.1&lt;/h3&gt;&lt;/center&gt;&lt;center&gt;&lt;h3&gt;(C) EXL, 2013&lt;/h3&gt;&lt;/center&gt;</translation>
+        <translation type="obsolete">&lt;table&gt;&lt;tr&gt;&lt;td align=&apos;center&apos;&gt;&lt;img src=&apos;:/logo.png&apos;/&gt;&lt;/td&gt;&lt;td align=&apos;center&apos;&gt;&lt;br&gt;&lt;h4&gt;Головоломка: &lt;br&gt; восемь ферзей&lt;/td&gt;&lt;/h4&gt;&lt;/tr&gt;&lt;/table&gt;&lt;center&gt;&lt;h3&gt;Версия 0.1&lt;/h3&gt;&lt;/center&gt;&lt;center&gt;&lt;h3&gt;(C) EXL, 2013&lt;/h3&gt;&lt;/center&gt;</translation>
     </message>
 </context>
 </TS>

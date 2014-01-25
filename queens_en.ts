@@ -30,7 +30,7 @@
         <translation type="obsolete">&amp;%1 %2</translation>
     </message>
     <message>
-        <location filename="widget.cpp" line="171"/>
+        <location filename="widget.cpp" line="173"/>
         <source>&amp;Save as...</source>
         <oldsource>&amp;Save as..</oldsource>
         <translation>&amp;Save as...</translation>
@@ -40,50 +40,49 @@
         <translation type="obsolete">Save framebuffer as png, jpg, bmp and other populate formats</translation>
     </message>
     <message>
-        <location filename="widget.cpp" line="174"/>
+        <location filename="widget.cpp" line="176"/>
         <source>&amp;Quit</source>
         <translation>&amp;Quit</translation>
     </message>
     <message>
-        <location filename="widget.cpp" line="175"/>
+        <location filename="widget.cpp" line="177"/>
         <source>Exit the application</source>
         <translation>Exit the application</translation>
     </message>
     <message>
-        <location filename="widget.cpp" line="177"/>
-        <location filename="widget.cpp" line="185"/>
+        <location filename="widget.cpp" line="179"/>
+        <location filename="widget.cpp" line="187"/>
         <source>&amp;About</source>
         <translation>&amp;About</translation>
     </message>
     <message>
-        <location filename="widget.cpp" line="178"/>
+        <location filename="widget.cpp" line="180"/>
         <source>About the application</source>
         <translation>About the application</translation>
     </message>
     <message>
-        <location filename="widget.cpp" line="180"/>
+        <location filename="widget.cpp" line="182"/>
         <source>About &amp;Qt</source>
         <translation>About &amp;Qt</translation>
     </message>
     <message>
-        <location filename="widget.cpp" line="181"/>
+        <location filename="widget.cpp" line="183"/>
         <source>About the Qt Library&apos;s</source>
         <translation>About the Qt Library&apos;s</translation>
     </message>
     <message>
-        <location filename="widget.cpp" line="183"/>
+        <location filename="widget.cpp" line="185"/>
         <source>&amp;File</source>
         <translation>&amp;File</translation>
     </message>
     <message>
-        <location filename="widget.cpp" line="184"/>
+        <location filename="widget.cpp" line="186"/>
         <source>&amp;Language</source>
         <translation>&amp;Language</translation>
     </message>
     <message>
-        <location filename="widget.cpp" line="165"/>
-        <location filename="widget.cpp" line="189"/>
-        <location filename="widget.cpp" line="192"/>
+        <location filename="widget.cpp" line="191"/>
+        <location filename="widget.cpp" line="194"/>
         <source>8 Queens Problem</source>
         <translation>8 Queens Problem</translation>
     </message>
@@ -93,30 +92,39 @@
         <translation>&amp;%1</translation>
     </message>
     <message>
-        <location filename="widget.cpp" line="172"/>
+        <location filename="widget.cpp" line="168"/>
+        <source>8 Queens</source>
+        <translation>8 Queens</translation>
+    </message>
+    <message>
+        <location filename="widget.cpp" line="169"/>
+        <source>&lt;h4&gt;8 Queens Problem&lt;/h4&gt;&lt;center&gt;&lt;h3&gt;Version 0.1&lt;/h3&gt;&lt;/center&gt;&lt;center&gt;&lt;h3&gt;(C) EXL, 2013&lt;/h3&gt;&lt;/center&gt;</source>
+        <translation>&lt;h4&gt;8 Queens Problem&lt;/h4&gt;&lt;center&gt;&lt;h3&gt;Version 0.1&lt;/h3&gt;&lt;/center&gt;&lt;center&gt;&lt;h3&gt;(C) EXL, 2013&lt;/h3&gt;&lt;/center&gt;</translation>
+    </message>
+    <message>
+        <location filename="widget.cpp" line="174"/>
         <source>Save framebuffer as *.png</source>
         <translation>Save framebuffer as *.png</translation>
     </message>
     <message>
-        <location filename="widget.cpp" line="187"/>
+        <location filename="widget.cpp" line="189"/>
         <source>Ready</source>
         <translation>Ready</translation>
     </message>
     <message>
-        <location filename="widget.cpp" line="214"/>
+        <location filename="widget.cpp" line="216"/>
         <source>Save *.png file</source>
         <translation>Save *.png file</translation>
     </message>
     <message>
-        <location filename="widget.cpp" line="215"/>
+        <location filename="widget.cpp" line="217"/>
         <source>Image File (*.png);;All Files (*)</source>
         <translation>Image File (*.png);;All Files (*)</translation>
     </message>
     <message>
-        <location filename="widget.cpp" line="166"/>
         <source>&lt;table&gt;&lt;tr&gt;&lt;td align=&apos;center&apos;&gt;&lt;img src=&apos;:/logo.png&apos;/&gt;&lt;/td&gt;&lt;td align=&apos;center&apos;&gt;&lt;br&gt;&lt;h4&gt;8 Queens Problem&lt;/td&gt;&lt;/h4&gt;&lt;/tr&gt;&lt;/table&gt;&lt;center&gt;&lt;h3&gt;Version 0.1&lt;/h3&gt;&lt;/center&gt;&lt;center&gt;&lt;h3&gt;(C) EXL, 2013&lt;/h3&gt;&lt;/center&gt;</source>
         <oldsource>&lt;table&gt;&lt;tr&gt;&lt;td align=&apos;center&apos;&gt;&lt;img src=&apos;:/logo.png&apos;/&gt;&lt;/td&gt;&lt;td align=&apos;center&apos;&gt;&lt;br&gt;&lt;h4&gt;8 Queens Problem&lt;/td&gt;&lt;/h4&gt;&lt;/tr&gt;&lt;/table&gt;&lt;center&gt;&lt;h3&gt;Version 0.1&lt;/h3&gt;&lt;/center&gt;</oldsource>
-        <translation>&lt;table&gt;&lt;tr&gt;&lt;td align=&apos;center&apos;&gt;&lt;img src=&apos;:/logo.png&apos;/&gt;&lt;/td&gt;&lt;td align=&apos;center&apos;&gt;&lt;br&gt;&lt;h4&gt;8 Queens Problem&lt;/td&gt;&lt;/h4&gt;&lt;/tr&gt;&lt;/table&gt;&lt;center&gt;&lt;h3&gt;Version 0.1&lt;/h3&gt;&lt;/center&gt;&lt;center&gt;&lt;h3&gt;(C) EXL, 2013&lt;/h3&gt;&lt;/center&gt;</translation>
+        <translation type="obsolete">&lt;table&gt;&lt;tr&gt;&lt;td align=&apos;center&apos;&gt;&lt;img src=&apos;:/logo.png&apos;/&gt;&lt;/td&gt;&lt;td align=&apos;center&apos;&gt;&lt;br&gt;&lt;h4&gt;8 Queens Problem&lt;/td&gt;&lt;/h4&gt;&lt;/tr&gt;&lt;/table&gt;&lt;center&gt;&lt;h3&gt;Version 0.1&lt;/h3&gt;&lt;/center&gt;&lt;center&gt;&lt;h3&gt;(C) EXL, 2013&lt;/h3&gt;&lt;/center&gt;</translation>
     </message>
 </context>
 </TS>
