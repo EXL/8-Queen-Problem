@@ -246,5 +246,5 @@ void Widget::aboutDialog()
 
 Widget::~Widget()
 {
-    /**/
+    delete qSettings;
 }

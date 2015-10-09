@@ -181,5 +181,5 @@ void GLWidget::resizeGL(int width, int height)
 
 GLWidget::~GLWidget()
 {
-    /* destructor */
+    delete font;
 }
